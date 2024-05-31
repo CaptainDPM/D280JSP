@@ -1,0 +1,21 @@
+.navbar {
+    border-style: ridge;
+    border-radius: 10px;
+    border-color: rgb(55, 116, 65);
+    padding: 0;
+    margin: 0;
+}
+
+#topNav {
+    padding-bottom: 10px;
+}
+#columnLeft {
+    width: 85%;
+}
+#columnRight {
+    width: 15%;
+    text-align: center;
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+}
